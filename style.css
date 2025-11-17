@@ -76,4 +76,13 @@ h3 {
 .highlight {
   background-color: #d6f5e3;cc
 }
+footer {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 15px;
+  font-weight: bold;
+  margin-top: 80px;
+  font-family: Helvetica;
+}
+
 
