@@ -116,4 +116,15 @@
     font-size: 0.75rem;
   }
 }
+/* Landscape Mobile */
+@media (max-height: 500px) and (orientation: landscape) {
+  .container {
+    margin: 40px auto;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+}
+
 
